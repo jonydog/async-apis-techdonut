@@ -1,0 +1,6 @@
+synch/kotlin/build
+*.bat
+**gradle/wrapper/**
+**/.idea
+**/.gradle
+**/gradlew
